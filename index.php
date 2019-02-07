@@ -50,7 +50,6 @@
     <style>
 	.zoom {
   transition: transform .8s;
-  max-width: 500px;
   margin: 0 auto;
 }
 .zoompic{  transition: transform .8s;}
