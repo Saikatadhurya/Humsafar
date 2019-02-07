@@ -503,12 +503,12 @@
                 <div class="item">
                     <div class="driver-content vehicle-content theme-yellow zoompic">
                         <div class="driver-thumb vehicle-thumbnail">
-                            <a href="#">
+                          
                                 <img src="assets/images/team/shubraj.jpg"  title="Best Car renting and car sharing services." alt="car-item" />
-                            </a>
+                       
                         </div><!-- /.vehicle-thumbnail -->
                         <div class="vehicle-bottom-content">
-                           <h2 class="driver-name vehicle-title"><a href="#">Shubraj Prasad Singh</a></h2>
+                           <h2 class="driver-name vehicle-title">Shubhraj Prasad Singh</h2>
                             <h4 class="driver-desc">Android Developer</h4>
                         </div><!-- /.vehicle-bottom-content -->
                     </div><!-- /.car-content -->
@@ -517,12 +517,12 @@
                 <div class="item">
                     <div class="driver-content vehicle-content theme-yellow zoompic">
                         <div class="driver-thumb vehicle-thumbnail">
-                            <a href="#">
+                           
                                 <img src="assets/images/team/samrat.jpg" title="Best Car renting and car sharing services." alt="car-item" />
-                            </a>
+                        
                         </div><!-- /.vehicle-thumbnail -->
                         <div class="vehicle-bottom-content">
-                           <h2 class="driver-name vehicle-title"><a href="#">Samrat Anand</a></h2>
+                           <h2 class="driver-name vehicle-title">Samrat Anand</h2>
                             <h4 class="driver-desc">Android Developer</h4>
                         </div><!-- /.vehicle-bottom-content -->
                     </div><!-- /.car-content -->
@@ -535,12 +535,12 @@
 				 <div class="item">
                     <div class="driver-content vehicle-content theme-yellow zoompic">
                         <div class="driver-thumb vehicle-thumbnail">
-                            <a href="#">
+                          
                                 <img src="assets/images/team/sonu.jpg" title="Best Car renting and car sharing services." alt="car-item" />
-                            </a>
+                          
                         </div><!-- /.vehicle-thumbnail -->
                         <div class="vehicle-bottom-content">
-                           <h2 class="driver-name vehicle-title"><a href="#">Sonu Kr.Singh</a></h2>
+                           <h2 class="driver-name vehicle-title">Sonu Kr. Singh</h2>
                             <h4 class="driver-desc">Android Developer</h4>
                         </div><!-- /.vehicle-bottom-content -->
                     </div><!-- /.car-content -->
@@ -548,12 +548,12 @@
 			<div class="item">
                     <div class="driver-content vehicle-content theme-yellow zoompic">
                         <div class="driver-thumb vehicle-thumbnail">
-                            <a href="#">
+                            
                                 <img src="assets/images/team/sai.jpg" title="Best Car renting and car sharing services." alt="car-item" />
-                            </a>
+                        
                         </div><!-- /.vehicle-thumbnail -->
                         <div class="vehicle-bottom-content">
-                           <h2 class="driver-name vehicle-title"><a href="#">Saikat Adhurya</a></h2>
+                           <h2 class="driver-name vehicle-title">Saikat Adhurya</h2>
                             <h4 class="driver-desc">Web Developer</h4>
                         </div><!-- /.vehicle-bottom-content -->
                     </div><!-- /.car-content -->
@@ -561,12 +561,12 @@
                 <div class="item">
                     <div class="driver-content vehicle-content theme-yellow zoompic">
                         <div class="driver-thumb vehicle-thumbnail">
-                            <a href="#">
+                            
                                 <img src="assets/images/team/madhav.jpg" title="Best Car renting and car sharing services." alt="car-item" />
-                            </a>
+                            
                         </div><!-- /.vehicle-thumbnail -->
                         <div class="vehicle-bottom-content">
-                           <h2 class="driver-name vehicle-title"><a href="#">Madhav Kr. Mishra</a></h2>
+                           <h2 class="driver-name vehicle-title">Madhav Kr. Mishra</h2>
                             <h4 class="driver-desc">Web Developer</h4>
                         </div><!-- /.vehicle-bottom-content -->
                     </div><!-- /.car-content -->
