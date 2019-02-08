@@ -47,7 +47,16 @@
     <link rel="stylesheet" type="text/css" href="assets/revolution/css/layers.css">
     <link rel="stylesheet" type="text/css" href="assets/revolution/css/navigation.css">
 	<link rel="icon" href="assets/images/logo.png" type="image/gif" sizes="16x16">
-    <style>
+    <style> 
+  @media only screen and (max-width: 800px) {
+      .col-sm-6 img {
+          width:200px;
+          
+      }
+      extra-big-title{ font-size:100%; }
+      
+  }
+
 	.zoom {
   transition: transform .8s;
   margin: 0 auto;
